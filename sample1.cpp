@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 #define FLAG 1 //(0: direct access / 1: built-in function)
-
+//aaaaa
 char preset_file[] = "fruits.jpg";
 
 void my_image_processing(cv::Mat &input, cv::Mat &processed);
